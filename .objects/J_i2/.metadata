@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Job Search  Indeed",
+  "Type": "App",
+  "Id": "J_i21SVPrk6Ewj7ObvANyA",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/J_i21SVPrk6Ewj7ObvANyA",
+  "Created": "2025-05-17T17:32:38.1337175Z",
+  "Updated": "2025-05-17T17:32:38.1337175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
