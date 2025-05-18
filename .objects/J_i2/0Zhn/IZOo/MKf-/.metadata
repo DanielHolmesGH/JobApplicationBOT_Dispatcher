@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Keyword  all jobs&nbsp…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "MKf-iYc6_kKD3_klsmygeA",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/MKf-iYc6_kKD3_klsmygeA",
+  "ParentRef": "ONWWgQxko0KlMDBQaYQaMA/IZOovrNZG06f2PlwFErrMg",
+  "Created": "2025-05-17T17:57:05.6414346Z",
+  "Updated": "2025-05-17T17:57:05.6414346Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

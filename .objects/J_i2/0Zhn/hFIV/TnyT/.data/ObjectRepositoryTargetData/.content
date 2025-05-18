@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ybMLiDpa20mbw7pvwaJUzA" Reference="ONWWgQxko0KlMDBQaYQaMA/TnyTjwX9KEuv3XuBLWhkag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uk.indeed.com/jobs" CVScreenId="b1d5082c-ce01-4663-8fe1-1ad9554e1865" DesignTimeRectangle="8, 181, 0, 0" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='£70,000+' aria-role='link' tag='A' /&gt;" Guid="e6baab1e-78b3-4463-bfb6-4b642891bb9a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Work, jobs (with Salaries) | Indeed United Kingdom' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None" />
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

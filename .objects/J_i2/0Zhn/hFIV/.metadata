@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Automation Work, jobs (with Salaries) ",
+  "Type": "Screen",
+  "Id": "hFIVrpGtnkKgO9DxaKNTzw",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/hFIVrpGtnkKgO9DxaKNTzw",
+  "ParentRef": "ONWWgQxko0KlMDBQaYQaMA/0ZhnhRjeDU204xGJ7rKYcQ",
+  "Created": "2025-05-17T19:20:53.3339994Z",
+  "Updated": "2025-05-17T19:20:53.3339994Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

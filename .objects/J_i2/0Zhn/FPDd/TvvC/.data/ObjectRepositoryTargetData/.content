@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EX7B97Ma6EWqT07VNsXXZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uk.indeed.com/jobs" CVScreenId="1485063a-e8ea-4d9b-a21e-c53d698cd1e1" DesignTimeRectangle="313, 585, 533, 25" FullSelectorArgument="&lt;webctrl tag='DIV' innertext='Sort by: *' /&gt;" Guid="8602da5c-e522-46dd-a454-492dec95ee20" ScopeSelectorArgument="&lt;html app='chrome.exe' title='* | Indeed United Kingdom' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="297, 547, 565, 79" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='3' parentid='jobsearch-JapanPage' tag='DIV' /&gt;" Guid="7f2bc81d-59e8-4c70-8061-984771793429" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cc52de55d727bdd0fba7a45f8c5c1ad5.png" xmlns="">0kuxtLZsVvUeEqjlrNoTSfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

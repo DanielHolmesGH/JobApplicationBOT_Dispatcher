@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mm9Kxhd-ekyzzSGpPs1PUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uk.indeed.com/jobs" CVScreenId="f4c68125-0972-41aa-bb18-b3effd0683f8" DesignTimeRectangle="311, 409, 537, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='The search  did not match any jobs.' /&gt;" Guid="c00f7fbf-e2a4-424b-b357-9c931f73f0f7" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*Indeed United Kingdom' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="0c481571f81115ba085048d3363a7f5b.png" xmlns="">0-gVt-UtPNUmDQoumtMHrLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

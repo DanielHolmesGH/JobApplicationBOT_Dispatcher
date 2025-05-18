@@ -1,0 +1,14 @@
+﻿{
+  "Name": "£70,000+",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TnyTjwX9KEuv3XuBLWhkag",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/TnyTjwX9KEuv3XuBLWhkag",
+  "ParentRef": "ONWWgQxko0KlMDBQaYQaMA/hFIVrpGtnkKgO9DxaKNTzw",
+  "Created": "2025-05-17T19:21:32.3477283Z",
+  "Updated": "2025-05-17T19:21:32.3477283Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

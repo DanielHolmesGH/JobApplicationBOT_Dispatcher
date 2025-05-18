@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Find jobs",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "EUScwxaTPk6vMc2XaidP9g",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/EUScwxaTPk6vMc2XaidP9g",
+  "ParentRef": "ONWWgQxko0KlMDBQaYQaMA/IZOovrNZG06f2PlwFErrMg",
+  "Created": "2025-05-17T18:01:37.0253228Z",
+  "Updated": "2025-05-17T18:01:37.0253228Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

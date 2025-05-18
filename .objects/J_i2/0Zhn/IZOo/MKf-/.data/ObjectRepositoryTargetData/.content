@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="asaDJiBCxkqunNnc6kPEVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uk.indeed.com" CVScreenId="a3e69da0-dd22-42ae-90c8-95ded1e5d409" CvElementArea="543, 278, 362, 63" CvTextArea="598, 302, 231, 18" CvTextArgument="Job title, keywords or company" CvType="Button" DesignTimeRectangle="596, 279, 272, 60" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='text-input-what' tag='INPUT' /&gt;" Guid="34e64bff-45ba-4bab-aeb7-5adefd0c9710" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Job Search | Indeed' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="543, 278, 836, 62" FullSelectorArgument="&lt;webctrl parentid='jobsearch' tag='DIV' /&gt;" Guid="efcc2cae-a31c-46b2-bcb1-e8f2f0ea20bd" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3c2552d9ec9f5939ee3c03df3df0615f.png" xmlns="">0zfcW4NTDxkWKQFMmUXXRgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

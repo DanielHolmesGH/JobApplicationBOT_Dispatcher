@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aasvfkrvSUacNZpTYHH00A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uk.indeed.com/jobs" CVScreenId="171a3c21-9418-4cdf-9f84-d0c90ff1586e" CvElementArea="346, 413, 105, 45" CvTextArea="379, 430, 21, 13" CvTextArgument="Pay" CvType="Button" DesignTimeRectangle="349, 416, 100, 41" ElementType="Button" FullSelectorArgument="&lt;webctrl id='salaryType_filter_button' tag='BUTTON' /&gt;" Guid="d469e260-1c01-4a18-8363-6cd6a50ab411" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Work, jobs (with Salaries) | Indeed United Kingdom' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="ea28bc58b0209d26f59a5e1bced6d24c.png" xmlns="">0OhUQ1QSMIUmFtRuhFtjAXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

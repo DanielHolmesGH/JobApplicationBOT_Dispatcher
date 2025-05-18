@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The search automation23…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ukRp2WNq50SZ6NKber9Nxg",
+  "Reference": "ONWWgQxko0KlMDBQaYQaMA/ukRp2WNq50SZ6NKber9Nxg",
+  "ParentRef": "ONWWgQxko0KlMDBQaYQaMA/ClooFyQKkk6s6m0FaG4cJQ",
+  "Created": "2025-05-17T18:11:56.6682217Z",
+  "Updated": "2025-05-17T18:11:56.6682217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
